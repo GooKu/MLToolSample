@@ -7,8 +7,6 @@ public class SampleCode : MonoBehaviour
     [SerializeField]
     private TextAsset lines = null;
     [SerializeField]
-    private Dropdown dropDown = null;
-    [SerializeField]
     private Text sampleText = null;
 
     private void Start()
