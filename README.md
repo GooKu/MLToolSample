@@ -9,6 +9,7 @@ Please update submodule after clone it.
 The multi language source content is Text.csv, you can read/edit it by text editor or CSV editor. 
 Open SampleScene.unity, SampleCode.cs setup at Main Camer.
 Run SampleScene and change the dropdown item, those text will update to the target language text content.
+You can review SampleCode.cs to quickly understand how to use MLTool.
 
 ***
 If this is good for you, welcom to donate me by:
