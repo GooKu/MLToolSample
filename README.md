@@ -2,7 +2,7 @@
 This is a sample project for demo MLTool.  
 Please update submodule after clone it.
 
-**MLTool Repo**: https://github.com/GooKu/MLTool.git
+**MLTool Repo**: https://github.com/GooKu/MLTool.git  
 **Detial for MLTool**: https://github.com/GooKu/MLTool/blob/master/README.md  
 
 ***
